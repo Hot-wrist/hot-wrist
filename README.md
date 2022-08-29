@@ -10,6 +10,6 @@ in the area of Cybersecurity.
 - 🤔 I’m looking for help with Solidity...
  💬 Ask me about ... Anything tech
 - 📫 How to reach me: odeyjhn@gmail.com, hotwrist.hashnode.dev...
-- ⚡ Fun fact: ... I code low-level programs which led me to develop my own simple OS working on command line.
+- ⚡ Fun fact: ... I developed a lightweight terminal-based operating system using C and X86 assembly.
 
 
