@@ -10,6 +10,8 @@ My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ru
 - ⚡ Fun fact: ... I developed a lightweight terminal-based operating system using C and X86 assembly.
   
 ----
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Hotwrist/bbfce31e0217a3689c8d961a356cb10d/)
+----
 ## 📫 How to reach me:
 
 - [Twitter](https://twitter.com/i_am_giannis)
