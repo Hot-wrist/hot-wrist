@@ -9,7 +9,7 @@ My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ru
 - 📫 How to reach me: odeyjhn@gmail.com...
 - ⚡ Fun fact: ... I developed a lightweight terminal-based operating system using C and X86 assembly.
 -
-## 🎥 Watch My Introduction Video (Autoplay)
+## 🎥 John Ebinyi Odey
 [![Watch the video](https://img.youtube.com/vi/iWtrSEBjL0o/0.jpg)](https://www.youtube.com/embed/iWtrSEBjL0o?autoplay=1)
 
 -
