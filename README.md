@@ -14,3 +14,5 @@ My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ru
 
 - [Twitter](https://twitter.com/i_am_giannis)
 - [Email](mailto:odeyjhn@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hotwrist)](https://github.com/anuraghazra/github-readme-stats)
