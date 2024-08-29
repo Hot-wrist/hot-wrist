@@ -1,14 +1,4 @@
 ### Hi! 👋
-## 🎥 Introduction Video
-<div align="center">
-  <iframe width="600" height="400" 
-          src="https://www.youtube.com/embed/iWtrSEBjL0o?autoplay=1&mute=1" 
-          frameborder="0" 
-          allow="autoplay; encrypted-media" 
-          allowfullscreen>
-  </iframe>
-</div>
-
 My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ruby, C/C++ Intel x86 Assembly), Certified Cybersecurity Technician, Web Application Penetration Tester, and a Malware Analyst. 
 
 
@@ -18,6 +8,16 @@ My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ru
  💬 Ask me about ... Anything tech. Most especially Cybersecurity.
 - 📫 How to reach me: odeyjhn@gmail.com...
 - ⚡ Fun fact: ... I developed a lightweight terminal-based operating system using C and X86 assembly.
+-
+## 🎥 Introduction Video
+<div align="center">
+  <iframe width="600" height="400" 
+          src="https://www.youtube.com/embed/iWtrSEBjL0o?autoplay=1&mute=1" 
+          frameborder="0" 
+          allow="autoplay; encrypted-media" 
+          allowfullscreen>
+  </iframe>
+</div
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotwrist&langs_count=15&layout=pie)](https://github.com/hotwrist/github-readme-stats)
 ----
