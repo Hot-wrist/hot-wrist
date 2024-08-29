@@ -9,7 +9,7 @@ My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ru
 - 📫 How to reach me: odeyjhn@gmail.com...
 - ⚡ Fun fact: ... I developed a lightweight terminal-based operating system using C and X86 assembly.
 -
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotwrist&langs_count=15)](https://github.com/hotwrist/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hotwrist&langs_count=15&layout=pie)](https://github.com/hotwrist/github-readme-stats)
 ----
 ## 📫 How to reach me:
 
