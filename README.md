@@ -1,5 +1,5 @@
 ### Hi! 👋
-My name is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ruby, C/C++ Intel x86 Assembly), Certified Cybersecurity Technician, Web Application Penetration Tester, and a Malware Analyst. 
+This is John Ebinyi Odey aka Hotwrist. I am a computer programmer (Python, Ruby, C/C++ Intel x86 Assembly), Certified Cybersecurity Technician, Web Application Penetration Tester, and a Malware Analyst. 
 
 
 - 🔭 I’m currently working in the area of Cybersecurity(Web Application Security and Malware Analysis)...
